@@ -23,4 +23,3 @@ Few cool things (酷東西) around my daily nerdy life
 ## Multimedia
 
 * [Around](https://www.around.co/): Make video calls SO FUN
-* [Clipping Magic](https://clippingmagic.com/): Remove background from image
