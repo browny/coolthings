@@ -23,3 +23,8 @@ Few cool things (酷東西) around my daily nerdy life
 ## Multimedia
 
 * [Around](https://www.around.co/): Make video calls SO FUN
+
+## Hot keys
+
+* Gamil 
+  * In mail thread, press `e` to Archive
