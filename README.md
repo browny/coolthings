@@ -24,6 +24,8 @@ Few cool things (酷東西) around my daily nerdy life
 ## Develop
 
 * [Fig](https://fig.io/): The next-generation command line
+* [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): Blazingly fast grep
 
 ## Multimedia
 
