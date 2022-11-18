@@ -19,6 +19,11 @@ Few cool things (酷東西) around my daily nerdy life
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Life saver for copy-paster
 * [Logseq](https://logseq.com/): Your 2nd brain, if you have already one
 * [Rectangle](https://rectangleapp.com/): Move and resize windows in macOS using keyboard shortcuts or snap areas
+* [Raycast](https://www.raycast.com/): Raycast is a blazingly fast, totally extendable launcher
+
+## Develop
+
+* [Fig](https://fig.io/): The next-generation command line
 
 ## Multimedia
 
