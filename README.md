@@ -8,6 +8,7 @@ Few cool things (酷東西) around my daily nerdy life
 * [Dark Reader](https://darkreader.org/): Be nice to your eyes
 * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk?hl=en): Level up your web reading experiences
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): Browsing without any mouse scrolling
+* [Web Highlights](https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm): Highlight what's matter to you
 
 ## Draw, Diagram, Collaboration, Whiteboard
 
