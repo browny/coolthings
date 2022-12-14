@@ -14,6 +14,7 @@ Few cool things (酷東西) around my daily nerdy life
 
 * [Excalidraw](https://excalidraw.com/): Draw architecture diagram like a PRO
 * [Whimsical](https://whimsical.com/): Beautiful flow chart and all kinds of wireframe
+* [Xnapper](https://xnapper.com/): Make your screenshot professional & tasteful
 
 ## Productivity
 
