@@ -9,6 +9,7 @@ Few cool things (酷東西) around my daily nerdy life
 * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk?hl=en): Level up your web reading experiences
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): Browsing without any mouse scrolling
 * [Web Highlights](https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm): Highlight what's matter to you
+* [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/): Youtube Subscription Manager
 
 ## Draw, Diagram, Collaboration, Whiteboard
 
