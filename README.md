@@ -10,6 +10,7 @@ Few cool things (酷東西) around my daily nerdy life
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): Browsing without any mouse scrolling
 * [Web Highlights](https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm): Highlight what's matter to you
 * [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/): Youtube Subscription Manager
+* [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-TW): Translation side by side
 
 ## Draw, Diagram, Collaboration, Whiteboard
 
