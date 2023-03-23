@@ -9,6 +9,7 @@ Few cool things (酷東西) around my daily nerdy life
 * [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc): Uses the ChatGPT API for translation
 * [ReaderGPT](https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd): ChatGPT based Web Page Summariser
 * [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click
+* [ChatGPT Toolkit](https://chrome.google.com/webstore/detail/chatgpt-%E8%90%AC%E8%83%BD%E5%B7%A5%E5%85%B7%E7%AE%B1/fmijcafgekkphdijpclfgnjhchmiokgp): https://blog.miniasp.com/post/2023/02/28/Useful-tool-ChatGPT-Toolkit
 
 ## Chrome extensions
 
