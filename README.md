@@ -2,6 +2,14 @@
 
 Few cool things (酷東西) around my daily nerdy life 
 
+## GPT
+
+* [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp): Write mail, messages with AI
+* [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): Ask AI when you Google search at the same time
+* [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc): Uses the ChatGPT API for translation
+* [ReaderGPT](https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd): ChatGPT based Web Page Summariser
+* [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click
+
 ## Chrome extensions
 
 * [Tab Muter](https://chrome.google.com/webstore/detail/tab-muter/bnclejfcblondkjliiblkojdeloomadd?hl=en): Mute site is NOT cool, Mute tab IS
