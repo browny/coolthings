@@ -50,3 +50,7 @@ Few cool things (酷東西) around my daily nerdy life
 
 * Gamil 
   * In mail thread, press `e` to Archive
+  
+* Notion
+  * Open in new tab: Cmd + click
+  * Search: Cmd + P
