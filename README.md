@@ -4,12 +4,9 @@ Few cool things (酷東西) around my daily nerdy life
 
 ## GPT
 
-* [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp): Write mail, messages with AI
-* [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): Ask AI when you Google search at the same time
-* [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc): Uses the ChatGPT API for translation
-* [ReaderGPT](https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd): ChatGPT based Web Page Summariser
-* [ShareGPT](https://sharegpt.com/): Share your wildest ChatGPT conversations with one click
-* [ChatGPT Toolkit](https://chrome.google.com/webstore/detail/chatgpt-%E8%90%AC%E8%83%BD%E5%B7%A5%E5%85%B7%E7%AE%B1/fmijcafgekkphdijpclfgnjhchmiokgp): https://blog.miniasp.com/post/2023/02/28/Useful-tool-ChatGPT-Toolkit
+* [Glarity](https://glarity.app/zh-TW): Glarity Summary is a ChatGPT for YouTube/Google extension that can summarize YouTube videos and Google searches
+* [TypingMind](https://www.typingmind.com/): A better UI for ChatGPT
+* [phind](https://www.phind.com/): The AI search engine for developers
 
 ## Chrome extensions
 
