@@ -47,7 +47,14 @@ Few cool things (酷東西) around my daily nerdy life
 
 * Gamil 
   * In mail thread, press `e` to Archive
-  
+
+* Google Calendar 
+  * `e`: Go to today
+  * `j` / `k`: Next / Prev period
+
 * Notion
   * Open in new tab: Cmd + click
   * Search: Cmd + P
+
+* Slack
+  * Open in right panel: Cmd + click 
