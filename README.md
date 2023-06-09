@@ -61,7 +61,7 @@ Few cool things (酷東西) around my daily nerdy life
 
 ## Prompt
 
-* 知識點
+### 知識點
 
 ```
 每當我問你一個知識點，你應該提出三個問題，並且嘗試解答這三個問題。
