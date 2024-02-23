@@ -6,6 +6,7 @@ Few cool things (酷東西) around my daily nerdy life
 
 * [Glarity](https://glarity.app/zh-TW): Glarity Summary is a ChatGPT for YouTube/Google extension that can summarize YouTube videos and Google searches
 * [TypingMind](https://www.typingmind.com/): A better UI for ChatGPT
+* [Perplexity](https://www.perplexity.ai/): When generation meets references
 * [phind](https://www.phind.com/): The AI search engine for developers
 
 ## Chrome extensions
